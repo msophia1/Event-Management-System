@@ -1,0 +1,1 @@
+This application helps the Event Organisers to organise events depending on the place, time and other events, users to who to participate in the event by allowing them to register for the event, helping the event managers to organize the number of participants. 
